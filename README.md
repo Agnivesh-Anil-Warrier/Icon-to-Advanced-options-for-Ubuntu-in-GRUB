@@ -1,6 +1,5 @@
 # Add an Icon to “Advanced options for Ubuntu” in GRUB
 
-<img width="728" height="551" alt="image" src="https://github.com/user-attachments/assets/5a8f39b9-bc84-4fe2-88ff-e655af808280" />
 <img width="1500" height="551" alt="image" src="https://github.com/user-attachments/assets/b191635e-6bb9-4fa9-ace5-10a06febab92" />
 
 
