@@ -5,8 +5,8 @@
 
 
 Most GRUB themes can show icons for menu entries, but the
-**“Advanced options for Ubuntu”** submenu has no class by default —
-which means no icon appears even if your theme supports it.
+**“Advanced options for Ubuntu”** submenu has no class by default.
+And that means no icon appears even if your theme supports it.
 
 This guide shows how to safely add one.
 
